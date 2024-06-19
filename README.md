@@ -54,5 +54,3 @@ Lists: Used to store collections of departments, students, and teachers.
 Dictionaries: Used for efficient lookup and retrieval of objects by their IDs.
 Tuples: Used for passing and returning data in some cases, providing immutability and efficiency.
 
-# Contributing
-Contributions to the School Management System CLI application are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the project's repository.
