@@ -2,7 +2,7 @@
 
 ## Date, 18/06/2024
 
-### By *Alpha Matara*
+### By *Brian Joseph*
 
 # Problem Statement
 1. Manual record-keeping can lead to inconsistent and inaccurate student data.
