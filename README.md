@@ -1,6 +1,6 @@
 # SCHOOL MANAGEMENT SYSTEM CLI APPLICATION
 
-## Date, 18/06/2024
+## Date, 16/12/2024
 
 ### By *Brian Joseph*
 
@@ -23,7 +23,7 @@
 6. As a user I can delete a teacher
 7. As a user I can create a department
 8. As a user I can update a department
-9. As a user I deletea department
+9. As a user I delete a department
 10. As a user I can delete teachers in a specific department
 
 
@@ -38,6 +38,7 @@ Navigate to the project directory:
 cd school-management-system
 
 Install the following dependencies to set up and enter in the virtual environment
+pipenv install then run pipenv shell
 
 Run the application:
 cd lib then run python cli.py
